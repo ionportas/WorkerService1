@@ -1,0 +1,1 @@
+sc.exe create WebsiteStatus binpath=D:\Workspace\temp_log\WorkerService1.exe start=auto
